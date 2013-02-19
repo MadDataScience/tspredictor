@@ -1,0 +1,12 @@
+numpy>=1.6.1
+python-dateutil>=1.5
+pytz
+cython
+scipy
+tornado
+pyzmq>=2.1.4
+rpy2
+matplotlib
+ipython
+pandas
+statsmodels
